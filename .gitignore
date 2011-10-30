@@ -1,9 +1,5 @@
 *.jar
 *.class
 
-/.settings
-/.classpath
-/.project
-
 /war/WEB-INF/classes
 /war/WEB-INF/appengine-generated
